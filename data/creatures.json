@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "Achatina",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Allosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Amargasaurus",
+    "origin": "Lost Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ammonite",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Andrewsarchus",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Angler",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ankylosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Araneo",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Archaeopteryx",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Archelon",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
+    "name": "Argentavis",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Armadoggo",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Arthropluera",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Astrocetus",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Astrodelphis",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Attack Drone",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Baryonyx",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Basilisk",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Basilosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Beelzebufo",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Beyla",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Beyla Spawn",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Bison",
+    "origin": "Ragnarok",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Blood Crystal Wyvern",
+    "origin": "Crystal Isles",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Bloodstalker",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Brontosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Broodmother Lysrix",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Bulbdog",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Carbonemys",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Carcharodontosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Carnotaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Castoroides",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Cat",
+    "origin": "The Island",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Ceratosaurus",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
+    "name": "Chalk Golem",
+    "origin": "Valguero",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Chalicotherium",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Cnidaria",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Coelacanth",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Compy",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Corrupted Avatar",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Corrupted Master Controller",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Corrupted Survivor",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Cosmo",
+    "origin": "Abberation",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Crystal Wyvern Queen",
+    "origin": "Crystal Isles",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Daeodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Deathworm",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Defense Unit",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Deinonychus",
+    "origin": "Valguero",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Deinosuchus",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
+    "name": "Deinotherium",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
+    "name": "Desert Titan",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Desert Titan Flock",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Desmodus",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dilophosaur",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dimetrodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dimorphodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dinopithecus",
+    "origin": "Lost Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dinopithecus King",
+    "origin": "Lost Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Diplocaulus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Diplodocus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dire Bear",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Direwolf",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dodo",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "DodoRex",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dodo Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Doedicurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dragon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dreadmare",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Dreadnoughtus",
+    "origin": "Extinction",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Dung Beetle",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Dunkleosteus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Eel Minion",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Electrophorus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ember Crystal Wyvern",
+    "origin": "Crystal Isles",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Enforcer",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Equus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Eurypterid",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Exo-Mek",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Fasolasuchus",
+    "origin": "Scorched Earth",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Featherlight",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Fenrir",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Fenrisúlfr",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ferox",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Fire Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Fjordhawk",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Forest Titan",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Forest Wyvern",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Gacha",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Gallimimus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Gasbags",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Giant Bee",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Giant Queen Bee",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Giganotosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Gigantopithecus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Gigantoraptor",
+    "origin": "The Island",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Glowbug",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Glowtail",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Griffin",
+    "origin": "Ragnarok",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Hati",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Hesperornis",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Hyaenodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ice Titan",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ice Wyvern",
+    "origin": "Ragnarok",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ice Golem",
+    "origin": "Valguero",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Iceworm Queen",
+    "origin": "Ragnarok",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ichthyornis",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ichthyosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Iguanodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Insect Swarm",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Jerboa",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Kairuku",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Kaprosuchus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Karkinos",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Kentrosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "King Titan",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Lamprey",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Lava Elemental",
+    "origin": "Ragnarok",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Leech",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Leedsichthys",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Lightning Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Liopleurodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Lymantria",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Lystrosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Macrophage",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Maewing",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Maeguana",
+    "origin": "Astraeos",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Magmasaur",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Mammoth",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Managarmr",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Manta",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Manticore",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Mantis",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Mega Mek",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megachelon",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megalania",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megaloceros",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megalodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megalosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Meganeura",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megapithecus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Megaraptor",
+    "origin": "Valguero",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Megatherium",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Mek",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Mesopithecus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Microraptor",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Minotaur",
+    "origin": "Astraeos",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Moeder",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Morellatops",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Mosasaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Moschops",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Nameless",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Natrix",
+    "origin": "Astraeos",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Noglin",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Oil Jug Bug",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Oasisaur",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Onyc",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Otter",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Overseer",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Oviraptor",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ovis",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pachy",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pachyrhinosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Paraceratherium",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Parakeet Fish School",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Parasaur",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pegomastax",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pelagornis",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Phiomia",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Phoenix",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Piranha",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Plesiosaur",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Poison Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Procoptodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pteranodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pulmonoscorpius",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Purlovia",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Pyromane",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Quetzal",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Raptor",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Ravager",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Reaper",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rex",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rhyniognatha",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rock Drake",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rock Elemental",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rockwell",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rockwell Prime",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Roll Rat",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rubble Bear",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Rubble Golem",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Sabertooth",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Sabertooth Salmon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Sarco",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Scout",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Scrap Elemental",
+    "origin": "Club ARK",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Seeker",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Shadowmane",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Shastasaurus",
+    "origin": "The Center",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Shinehorn",
+    "origin": "Abberation",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Sinomacrops",
+    "origin": "Lost Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Sir-5rM8",
+    "origin": "Abberation",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Sköll",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Snow Owl",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Spino",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Stegosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Steinbjörn",
+    "origin": "Fjordur",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Summoner",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tapejara",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Giganotosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Parasaur",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Quetzal",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Raptor",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Rex",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Stegosaurus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Stryder",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tek Triceratops",
+    "origin": "Genesis Part 1",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Terror Bird",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Thanatos",
+    "origin": "Astraeos",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Therizinosaur",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Thodes",
+    "origin": "Astraeos",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Thorny Dragon",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Thylacoleo",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Titanoboa",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Titanomyrma Drone",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Titanomyrma Soldier",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Titanosaur",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Triceratops",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Trilobite",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tropical Crystal Wyvern",
+    "origin": "Crystal Isles",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Troodon",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tropeognathus",
+    "origin": "Crystal Isles",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Tusoteuthis",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Unicorn",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Velonasaur",
+    "origin": "Extinction",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Voidwyrm",
+    "origin": "Genesis Part 2",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Vulture",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Water Jug Bug",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Woolly Rhino",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Xiphactinus",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
+    "name": "Yi Ling",
+    "origin": "Abberation",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Yutyrannus",
+    "origin": "The Island",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Zombie Fire Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Zombie Lightning Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Zombie Poison Wyvern",
+    "origin": "Scorched Earth",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Zomdodo",
+    "origin": "The Island",
+    "ascendedOnly": false
+  }
+]
