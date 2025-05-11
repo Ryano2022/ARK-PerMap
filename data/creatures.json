@@ -64,7 +64,7 @@
   {
     "name": "Armadoggo",
     "origin": "Extinction",
-    "ascendedOnly": false
+    "ascendedOnly": true
   },
   {
     "name": "Arthropluera",
@@ -806,7 +806,7 @@
   {
     "name": "Oasisaur",
     "origin": "Scorched Earth",
-    "ascendedOnly": false
+    "ascendedOnly": true
   },
   {
     "name": "Onyc",
