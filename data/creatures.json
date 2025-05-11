@@ -5,6 +5,12 @@
     "ascendedOnly": false
   },
   {
+    "name": "Acrocanthosaurus",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
     "name": "Allosaurus",
     "origin": "The Island",
     "ascendedOnly": false
@@ -126,6 +132,12 @@
     "ascendedOnly": false
   },
   {
+    "name": "Brachiosaurus",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
     "name": "Brontosaurus",
     "origin": "The Island",
     "ascendedOnly": false
@@ -197,6 +209,12 @@
     "ascendedOnly": false
   },
   {
+    "name": "Concavenator",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+  },
+  {
     "name": "Corrupted Avatar",
     "origin": "Genesis Part 1",
     "ascendedOnly": false
@@ -220,6 +238,12 @@
     "name": "Crystal Wyvern Queen",
     "origin": "Crystal Isles",
     "ascendedOnly": false
+  },
+  {
+    "name": "Cryolophosaurus",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
   },
   {
     "name": "Daeodon",
@@ -497,6 +521,12 @@
     "name": "Hati",
     "origin": "Fjordur",
     "ascendedOnly": false
+  },
+  {
+    "name": "Helicoprion",
+    "origin": "The Island",
+    "ascendedOnly": true,
+    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
   },
   {
     "name": "Hesperornis",
