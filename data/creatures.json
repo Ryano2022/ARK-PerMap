@@ -8,7 +8,7 @@
     "name": "Acrocanthosaurus",
     "origin": "The Island",
     "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "note": "This creature is planned to be added in the future. "
   },
   {
     "name": "Allosaurus",
@@ -53,8 +53,7 @@
   {
     "name": "Archelon",
     "origin": "The Island",
-    "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "ascendedOnly": true
   },
   {
     "name": "Argentavis",
@@ -119,7 +118,8 @@
   {
     "name": "Bison",
     "origin": "Ragnarok",
-    "ascendedOnly": true
+    "ascendedOnly": true,
+    "note": "This creature is planned to be added with the Ragnarok Ascended DLC. "
   },
   {
     "name": "Blood Crystal Wyvern",
@@ -135,7 +135,7 @@
     "name": "Brachiosaurus",
     "origin": "The Island",
     "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "note": "This creature is planned to be added in the future. "
   },
   {
     "name": "Brontosaurus",
@@ -180,8 +180,7 @@
   {
     "name": "Ceratosaurus",
     "origin": "The Island",
-    "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "ascendedOnly": true
   },
   {
     "name": "Chalk Golem",
@@ -212,7 +211,7 @@
     "name": "Concavenator",
     "origin": "The Island",
     "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "note": "This creature is planned to be added in the future. "
   },
   {
     "name": "Corrupted Avatar",
@@ -243,7 +242,7 @@
     "name": "Cryolophosaurus",
     "origin": "The Island",
     "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "note": "This creature is planned to be added in the future. "
   },
   {
     "name": "Daeodon",
@@ -268,14 +267,12 @@
   {
     "name": "Deinosuchus",
     "origin": "The Island",
-    "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "ascendedOnly": true
   },
   {
     "name": "Deinotherium",
     "origin": "The Island",
-    "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "ascendedOnly": true
   },
   {
     "name": "Desert Titan",
@@ -526,7 +523,7 @@
     "name": "Helicoprion",
     "origin": "The Island",
     "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "note": "This creature is planned to be added in the future. "
   },
   {
     "name": "Hesperornis",
@@ -551,6 +548,11 @@
   {
     "name": "Ice Golem",
     "origin": "Valguero",
+    "ascendedOnly": false
+  },
+  {
+    "name": "Iceworm",
+    "origin": "Ragnarok",
     "ascendedOnly": false
   },
   {
@@ -736,7 +738,8 @@
   {
     "name": "Megaraptor",
     "origin": "Valguero",
-    "ascendedOnly": true
+    "ascendedOnly": true,
+    "note": "This creature is planned to be added with the Valguero Ascended DLC. "
   },
   {
     "name": "Megatherium",
@@ -1226,8 +1229,7 @@
   {
     "name": "Xiphactinus",
     "origin": "The Island",
-    "ascendedOnly": true,
-    "note": "This creature originated as an Evolved mod by Garuga123 but is available in vanilla Ascended. "
+    "ascendedOnly": true
   },
   {
     "name": "Yi Ling",
