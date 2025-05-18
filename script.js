@@ -11,17 +11,11 @@ let arenaBossCount = 0;
 
 // Initialise the application.
 document.addEventListener("DOMContentLoaded", () => {
-  loadDOMElements();
   loadLocalJSONData("data/creatures.json").then((data) => {
     // Create pie chart with creature origins.
     createOriginsBarChart(data);
   });
 });
-
-// Load all the DOM elements.
-function loadDOMElements() {
-  document.getElementById("randomButton").addEventListener("click", () => console.log("Hello World!"));
-}
 
 function countAscendedOnlies(data) {
   ascendedOnlies = data.filter((creature) => creature.ascendedOnly == true);
