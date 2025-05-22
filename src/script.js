@@ -104,7 +104,7 @@ function createOriginBarChart(data) {
     "The Center",
     "Scorched Earth",
     "Ragnarok",
-    "Abberation",
+    "Aberration",
     "Extinction",
     "Valguero",
     "Genesis Part 1",
