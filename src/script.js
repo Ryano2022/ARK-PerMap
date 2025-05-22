@@ -114,6 +114,7 @@ function createOriginBarChart(data) {
     "Fjordur",
     "Club ARK",
     "Astraeos",
+    "Lost Colony",
   ];
   const values = orderedLabels.map((origin) => data.filter((creature) => creature.origin == origin).length);
 
@@ -160,6 +161,7 @@ function updateList(selectedMap) {
     fjordur: "Fjordur",
     clubark: "Club ARK",
     astraeos: "Astraeos",
+    lostcolony: "Lost Colony",
   };
   const selectedOrigin = mapToOrigin[selectedMap];
 
