@@ -13,7 +13,7 @@ let arenaBossCount = 0;
 document.addEventListener("DOMContentLoaded", () => {
   loadLocalJSONData("data/creatures.json").then((data) => {
     // Create pie chart with creature origins.
-    createOriginsBarChart(data);
+    createOriginBarChart(data);
   });
 });
 
@@ -95,123 +95,45 @@ function loadLocalJSONData(dataLocation) {
     });
 }
 
-function createBarChart(labels, data) {
-  const container = document.createElement("div");
-  container.style.width = "800px";
-  container.style.height = "500px";
-
-  const canvas = document.createElement("canvas");
-  container.appendChild(canvas);
-
-  const colours = [
-    // Reds
-    "#FF0000", // Pure red
-    "#FF3333", // Light red
-    // Oranges
-    "#FF6600", // Orange
-    "#FF9900", // Amber
-    // Yellows
-    "#FFCC00", // Gold
-    "#FFFF00", // Pure yellow
-    // Greens
-    "#CCFF00", // Lime
-    "#66FF00", // Light green
-    "#00FF00", // Pure green
-    "#00FF66", // Spring green
-    // Blues/Cyans
-    "#00FFCC", // Aquamarine
-    "#00FFFF", // Cyan
-    "#00CCFF", // Sky blue
-    "#0066FF", // Azure
-    "#0000FF", // Pure blue
-    // Purples
-    "#6600FF", // Violet
-    "#9900FF", // Purple
-    "#CC00FF", // Magenta
-    "#FF00FF", // Fuchsia
-    "#FF00CC", // Pink
+function createOriginBarChart(data) {
+  const ctx = document.getElementById("originChart").getContext("2d");
+  const orderedLabels = [
+    "The Island",
+    "The Center",
+    "Scorched Earth",
+    "Ragnarok",
+    "Abberation",
+    "Extinction",
+    "Valguero",
+    "Genesis Part 1",
+    "Crystal Isles",
+    "Genesis Part 2",
+    "Lost Island",
+    "Fjordur",
+    "Club ARK",
+    "Astraeos",
   ];
+  const values = orderedLabels.map((origin) => data.filter((creature) => creature.origin == origin).length);
 
-  new Chart(canvas, {
+  new Chart(ctx, {
     type: "bar",
     data: {
-      labels: labels,
+      labels: orderedLabels,
       datasets: [
         {
-          data: data,
-          backgroundColor: function (context) {
-            const index = context.dataIndex % colours.length;
-            return colours[index];
-          },
+          label: "Unique Creatures Added",
+          data: values,
           borderWidth: 1,
         },
       ],
     },
     options: {
-      responsive: true,
-      indexAxis: "y", // Horizontal bar chart.
-      plugins: {
-        legend: {
-          display: false,
-        },
-        tooltip: {
-          callbacks: {
-            label: function (context) {
-              const total = context.dataset.data.reduce((sum, value) => sum + value, 0);
-              const percentage = (context.raw / total) * 100;
-              const formattedPercentage = percentage.toFixed(2);
-              return `Count: ${context.raw} (${formattedPercentage}%)`;
-            },
-          },
-        },
-      },
+      indexAxis: "y",
       scales: {
         x: {
-          title: {
-            display: true,
-            text: "Number of Creatures",
-          },
-        },
-        y: {
-          title: {
-            display: true,
-            text: "Origin",
-          },
+          beginAtZero: true,
         },
       },
     },
   });
-
-  return container;
-}
-
-function createOriginsBarChart(data) {
-  // Create a map of origin counts.
-  const originCounts = {};
-
-  origins.forEach((origin) => {
-    originCounts[origin] = 0;
-  });
-
-  origins.forEach((origin) => {
-    originCounts[origin] = data.filter((creature) => creature.origin == origin).length;
-  });
-
-  // Sort the origins for consistent display.
-  const sortedOrigins = [...origins].sort();
-
-  // Get data in same order as sorted origins.
-  const chartData = sortedOrigins.map((origin) => originCounts[origin]);
-
-  // Create the bar chart.
-  const chartContainer = createBarChart(sortedOrigins, chartData);
-  const chartsSection = document.getElementById("charts") || document.body;
-
-  const title = document.createElement("h2");
-  title.textContent = `Creature Origins Distribution (${originCount} origins) `;
-
-  chartsSection.appendChild(title);
-  chartsSection.appendChild(chartContainer);
-
-  console.log("Origins bar chart created with " + originCount + " origins. ");
 }

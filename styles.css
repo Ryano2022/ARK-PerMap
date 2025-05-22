@@ -15,25 +15,35 @@ h3 {
   margin-bottom: 20px;
 }
 
-#charts {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-  margin-top: 30px;
-}
-
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
-  margin: 10px;
-}
-
+/* For the chart container */
 .chart-container {
-  margin-bottom: 40px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
-canvas {
+/* For the canvas element */
+canvas#originChart {
   max-width: 100%;
+  height: auto !important; 
+}
+
+/* Make the charts section responsive */
+#charts {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .chart-container {
+    padding: 10px;
+  }
+
+  canvas#originChart {
+    max-height: 500px;
+  }
 }
