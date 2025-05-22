@@ -113,6 +113,7 @@ function createOriginBarChart(data) {
     "Lost Island",
     "Fjordur",
     "Club ARK",
+    "Fantastic Tames",
     "Astraeos",
     "Lost Colony",
   ];
@@ -160,6 +161,7 @@ function updateList(selectedMap) {
     lostisland: "Lost Island",
     fjordur: "Fjordur",
     clubark: "Club ARK",
+    fantastictames: "Fantastic Tames",
     astraeos: "Astraeos",
     lostcolony: "Lost Colony",
   };

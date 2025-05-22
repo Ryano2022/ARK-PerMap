@@ -877,6 +877,11 @@
     "origin": "Aberration"
   },
   {
+    "name": "Shoulder Dragon",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
     "name": "Sinomacrops",
     "origin": "Lost Island"
   },
