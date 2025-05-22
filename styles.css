@@ -27,7 +27,7 @@ h3 {
 /* For the canvas element */
 canvas#originChart {
   max-width: 100%;
-  height: auto !important; 
+  height: auto !important;
 }
 
 /* Make the charts section responsive */
@@ -35,6 +35,60 @@ canvas#originChart {
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
+}
+
+/* Styling for the select dropdown */
+#mapSelect {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 20px;
+  background-color: #f8f8f8;
+}
+
+/* Styling for the creature list container */
+#creatureListContainer {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* Styling for the creature list */
+#creatureList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+#creatureList li {
+  padding: 12px 15px;
+  border-bottom: 1px solid #eee;
+  transition: background-color 0.2s;
+}
+
+#creatureList li:last-child {
+  border-bottom: none;
+}
+
+#creatureList li:hover {
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+/* Empty list message */
+.empty-list {
+  padding: 20px;
+  text-align: center;
+  color: #888;
+  font-style: italic;
 }
 
 /* Media query for smaller screens */
@@ -45,5 +99,13 @@ canvas#originChart {
 
   canvas#originChart {
     max-height: 500px;
+  }
+
+  #creatureList {
+    max-height: 300px;
+  }
+
+  #mapSelect {
+    max-width: 250px;
   }
 }

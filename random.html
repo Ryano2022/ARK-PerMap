@@ -10,8 +10,36 @@
   </head>
 
   <body>
+    <!-- Charts -->
     <div id="charts">
+      <h2>Unique Creatures per Map</h2>
       <canvas id="originChart"></canvas>
+    </div>
+
+    <!-- Lists -->
+    <div id="list">
+      <h2>Discover Creatures per Map</h2>
+      <select id="mapSelect" onchange="updateList(this.value)">
+        <option value="" disabled selected>Select Map</option>
+        <option value="theisland">The Island</option>
+        <option value="thecenter">The Center</option>
+        <option value="scorched">Scorched Earth</option>
+        <option value="ragnarok">Ragnarok</option>
+        <option value="aberration">Aberration</option>
+        <option value="extinction">Extinction</option>
+        <option value="valguero">Valguero</option>
+        <option value="genesis">Genesis Part 1</option>
+        <option value="crystalisles">Crystal Isles</option>
+        <option value="genesis2">Genesis Part 2</option>
+        <option value="lostisland">Lost Island</option>
+        <option value="fjordur">Fjordur</option>
+        <option value="clubark">Club ARK</option>
+        <option value="astraeos">Astraeos</option>
+      </select>
+
+      <div id="creatureListContainer">
+        <ul id="creatureList"></ul>
+      </div>
     </div>
   </body>
 </html>

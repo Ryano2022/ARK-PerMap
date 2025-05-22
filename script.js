@@ -1,3 +1,4 @@
+let creatureData = [];
 let ascendedOnlies = [];
 let ascendedOnlyCount = 0;
 let origins = [];
@@ -12,6 +13,7 @@ let arenaBossCount = 0;
 // Initialise the application.
 document.addEventListener("DOMContentLoaded", () => {
   loadLocalJSONData("data/creatures.json").then((data) => {
+    creatureData = data;
     // Create pie chart with creature origins.
     createOriginBarChart(data);
   });
@@ -136,4 +138,44 @@ function createOriginBarChart(data) {
       },
     },
   });
+}
+
+function updateList(selectedMap) {
+  const creatureList = document.getElementById("creatureList");
+  creatureList.innerHTML = "";
+
+  // Translate the selected map to the corresponding origin.
+  const mapToOrigin = {
+    theisland: "The Island",
+    thecenter: "The Center",
+    scorchedearth: "Scorched Earth",
+    ragnarok: "Ragnarok",
+    aberration: "Abberation",
+    extinction: "Extinction",
+    valguero: "Valguero",
+    genesis: "Genesis Part 1",
+    crystalisles: "Crystal Isles",
+    genesis2: "Genesis Part 2",
+    lostisland: "Lost Island",
+    fjordur: "Fjordur",
+    clubark: "Club ARK",
+    astraeos: "Astraeos",
+  };
+  const selectedOrigin = mapToOrigin[selectedMap];
+
+  const filteredCreatures = creatureData.filter((creature) => creature.origin == selectedOrigin);
+
+  if (filteredCreatures.length > 0) {
+    filteredCreatures.forEach((creature) => {
+      const li = document.createElement("li");
+      li.textContent = creature.name;
+      creatureList.appendChild(li);
+    });
+  } else {
+    const li = document.createElement("li");
+    li.textContent = "No creatures found for this map. ";
+    creatureList.appendChild(li);
+  }
+
+  document.getElementById("creatureListContainer").style.minHeight = "600px";
 }
