@@ -150,7 +150,7 @@ function updateList(selectedMap) {
     thecenter: "The Center",
     scorchedearth: "Scorched Earth",
     ragnarok: "Ragnarok",
-    aberration: "Abberation",
+    aberration: "Aberration",
     extinction: "Extinction",
     valguero: "Valguero",
     genesis: "Genesis Part 1",
