@@ -349,6 +349,12 @@
     "origin": "The Island"
   },
   {
+    "name": "Erymanthian",
+    "origin": "Astraeos",
+    "ascendedOnly": true,
+    "isWorldBoss": true
+  },
+  {
     "name": "Eurypterid",
     "origin": "The Island"
   },
@@ -508,6 +514,12 @@
   {
     "name": "Kaprosuchus",
     "origin": "The Island"
+  },
+  {
+    "name": "Kalydonios",
+    "origin": "Astraeos",
+    "ascendedOnly": true,
+    "isWorldBoss": true
   },
   {
     "name": "Karkinos",
