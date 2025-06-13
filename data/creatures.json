@@ -961,6 +961,12 @@
     "origin": "Scorched Earth"
   },
   {
+    "name": "Thrall",
+    "origin": "Lost Colony",
+    "ascendedOnly": true,
+    "note": "This creature is planned to be added with the Lost Colony DLC. "
+  },
+  {
     "name": "Thylacoleo",
     "origin": "The Island"
   },
@@ -1041,7 +1047,8 @@
   {
     "name": "Young Ice Fox",
     "origin": "Lost Colony",
-    "ascendedOnly": true
+    "ascendedOnly": true,
+    "note": "This creature is planned to be added with the Lost Colony DLC. "
   },
   {
     "name": "Yutyrannus",
