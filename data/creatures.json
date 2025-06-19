@@ -889,7 +889,7 @@
     "origin": "Aberration"
   },
   {
-    "name": "Shoulder Dragon",
+    "name": "Drakeling",
     "origin": "Fantastic Tames",
     "ascendedOnly": true
   },
@@ -1045,10 +1045,9 @@
     "ascendedOnly": true
   },
   {
-    "name": "Young Ice Fox",
+    "name": "Veilwyn",
     "origin": "Lost Colony",
-    "ascendedOnly": true,
-    "note": "This creature is planned to be added with the Lost Colony DLC. "
+    "ascendedOnly": true
   },
   {
     "name": "Yutyrannus",
