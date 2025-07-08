@@ -116,6 +116,7 @@ function createOriginBarChart(data) {
     "Fantastic Tames",
     "Astraeos",
     "Lost Colony",
+    "Aquatica",
   ];
   const values = orderedLabels.map((origin) => data.filter((creature) => creature.origin == origin).length);
 
@@ -164,6 +165,7 @@ function updateList(selectedMap) {
     fantastictames: "Fantastic Tames",
     astraeos: "Astraeos",
     lostcolony: "Lost Colony",
+    aquatica: "Aquatica",
   };
   const selectedOrigin = mapToOrigin[selectedMap];
 
@@ -173,6 +175,7 @@ function updateList(selectedMap) {
     filteredCreatures.forEach((creature) => {
       const li = document.createElement("li");
       li.textContent = creature.name;
+      li.addEventListener("click", () => showCreatureInfo(creature));
       creatureList.appendChild(li);
     });
   } else {
@@ -182,4 +185,68 @@ function updateList(selectedMap) {
   }
 
   document.getElementById("creatureListContainer").style.minHeight = "600px";
+}
+
+function showCreatureInfo(creature) {
+  const listSection = document.getElementById("listSection");
+  const creatureListContainer = document.getElementById("creatureListContainer");
+  const mapSelect = document.getElementById("mapSelect");
+  const chartSection = document.getElementById("chartSection");
+
+  // Hide the list section, creature list container and the chart.
+  creatureListContainer.style.display = "none";
+  mapSelect.style.display = "none";
+  document.querySelector("#listSection h2").style.display = "none";
+  document.querySelector("#listSection p").style.display = "none";
+  chartSection.style.display = "none";
+
+  // Show the info section.
+  const infoSection = document.getElementById("infoSection");
+  infoSection.style.display = "block";
+
+  // Set the creature name and info.
+  document.getElementById("creatureName").textContent = creature.name;
+
+  const creatureInfo = document.getElementById("creatureInfo");
+  creatureInfo.innerHTML = "";
+
+  // Set the properties of the creature.
+  const properties = [
+    { label: "Origin", value: creature.origin },
+    { label: "ASA Exclusive", value: creature.ascendedOnly ? "Yes" : "No" },
+    { label: "Event Origin", value: creature.eventOrigin || "N/A" },
+    { label: "World Boss", value: creature.isWorldBoss ? "Yes" : "No" },
+    { label: "Arena Boss", value: creature.isArenaBoss ? "Yes" : "No" },
+    { label: "Note", value: creature.note || "No additional notes." },
+  ];
+
+  properties.forEach((prop) => {
+    const row = document.createElement("div");
+    row.className = "info-row";
+
+    const label = document.createElement("div");
+    label.className = "info-label";
+    label.textContent = prop.label + ":";
+
+    const value = document.createElement("div");
+    value.className = "info-value";
+    value.textContent = prop.value;
+
+    row.appendChild(label);
+    row.appendChild(value);
+    creatureInfo.appendChild(row);
+  });
+}
+
+function showList() {
+  const creatureListContainer = document.getElementById("creatureListContainer");
+  const mapSelect = document.getElementById("mapSelect");
+
+  creatureListContainer.style.display = "block";
+  mapSelect.style.display = "block";
+  document.querySelector("#listSection h2").style.display = "block";
+  document.querySelector("#listSection p").style.display = "block";
+  document.getElementById("chartSection").style.display = "block";
+
+  document.getElementById("infoSection").style.display = "none";
 }

@@ -30,8 +30,8 @@ canvas#originChart {
   height: auto !important;
 }
 
-/* Make the charts section responsive */
-#charts {
+/* Make the chart section responsive */
+#chartSection {
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
@@ -108,4 +108,53 @@ canvas#originChart {
   #mapSelect {
     max-width: 250px;
   }
+}
+
+/* Styling for the creature info section */
+#infoSection {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  min-height: 400px;
+}
+
+#creatureInfo {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+#backButton {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+#backButton:hover {
+  background-color: #45a049;
+}
+
+/* Property-value pairs in the info section */
+.info-row {
+  display: flex;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.info-label {
+  font-weight: bold;
+  width: 150px;
+}
+
+.info-value {
+  flex: 1;
 }

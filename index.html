@@ -11,14 +11,15 @@
 
   <body>
     <!-- Charts -->
-    <div id="charts">
+    <div id="chartSection">
       <h2>Unique Creatures per Map/DLC</h2>
       <canvas id="originChart"></canvas>
     </div>
 
-    <!-- Lists -->
-    <div id="list">
+    <!-- Lists Section -->
+    <div id="listSection">
       <h2>Discover Creatures per Map/DLC</h2>
+      <p>Select one of the creatures in the list for more info on it.</p>
       <select id="mapSelect" onchange="updateList(this.value)">
         <option value="" disabled selected>Select Map</option>
         <option value="theisland">The Island</option>
@@ -41,6 +42,13 @@
 
       <div id="creatureListContainer">
         <ul id="creatureList"></ul>
+      </div>
+
+      <!-- Creature Info Section (Initially Hidden) -->
+      <div id="infoSection" style="display: none">
+        <h2 id="creatureName"></h2>
+        <div id="creatureInfo"></div>
+        <button id="backButton" onclick="showList()">Back to List</button>
       </div>
     </div>
   </body>

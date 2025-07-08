@@ -311,6 +311,26 @@
     "isArenaBoss": true
   },
   {
+    "name": "Drakeling Spring",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Drakeling Summer",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Drakeling Autumn",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
+    "name": "Drakeling Winter",
+    "origin": "Fantastic Tames",
+    "ascendedOnly": true
+  },
+  {
     "name": "Dreadmare",
     "origin": "Fantastic Tames",
     "ascendedOnly": true
@@ -887,11 +907,6 @@
   {
     "name": "Shinehorn",
     "origin": "Aberration"
-  },
-  {
-    "name": "Drakeling",
-    "origin": "Fantastic Tames",
-    "ascendedOnly": true
   },
   {
     "name": "Sinomacrops",
