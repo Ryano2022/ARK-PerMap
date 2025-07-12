@@ -626,6 +626,11 @@
     "origin": "Scorched Earth"
   },
   {
+    "name": "Mantis Shrimp",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Mega Mek",
     "origin": "Extinction"
   },
@@ -692,6 +697,11 @@
     "isArenaBoss": true
   },
   {
+    "name": "Monodon",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Morellatops",
     "origin": "Scorched Earth"
   },
@@ -702,6 +712,11 @@
   {
     "name": "Moschops",
     "origin": "The Island"
+  },
+  {
+    "name": "Mudpuppy",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Nameless",
@@ -729,6 +744,11 @@
   {
     "name": "Onyc",
     "origin": "The Island"
+  },
+  {
+    "name": "Onchopristis",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Otter",
@@ -1002,8 +1022,18 @@
     "origin": "The Island"
   },
   {
+    "name": "Tiktaalik",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Triceratops",
     "origin": "The Island"
+  },
+  {
+    "name": "Tridacna",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Trilobite",
