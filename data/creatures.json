@@ -164,6 +164,11 @@
     "origin": "The Island"
   },
   {
+    "name": "Chrysaora",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Cnidaria",
     "origin": "The Island"
   },
@@ -210,8 +215,18 @@
     "note": "This creature is planned to be added in the future. "
   },
   {
+    "name": "Cymathoa",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Daeodon",
     "origin": "The Island"
+  },
+  {
+    "name": "Dakosaurus",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Deathworm",
@@ -339,6 +354,11 @@
     "name": "Dreadnoughtus",
     "origin": "Extinction",
     "ascendedOnly": true
+  },
+  {
+    "name": "Dreadworm",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Dung Beetle",
@@ -486,6 +506,10 @@
     "origin": "The Island"
   },
   {
+    "name": "Ice Golem",
+    "origin": "Valguero"
+  },
+  {
     "name": "Ice Titan",
     "origin": "Extinction",
     "isWorldBoss": true
@@ -493,10 +517,6 @@
   {
     "name": "Ice Wyvern",
     "origin": "Ragnarok"
-  },
-  {
-    "name": "Ice Golem",
-    "origin": "Valguero"
   },
   {
     "name": "Iceworm",
@@ -524,15 +544,16 @@
     "origin": "Genesis Part 1"
   },
   {
+    "name": "Istiophorus",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Jerboa",
     "origin": "Scorched Earth"
   },
   {
     "name": "Kairuku",
-    "origin": "The Island"
-  },
-  {
-    "name": "Kaprosuchus",
     "origin": "The Island"
   },
   {
@@ -542,12 +563,26 @@
     "isWorldBoss": true
   },
   {
+    "name": "Kaprosuchus",
+    "origin": "The Island"
+  },
+  {
     "name": "Karkinos",
     "origin": "Aberration"
   },
   {
+    "name": "Kathreptis",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Kentrosaurus",
     "origin": "The Island"
+  },
+  {
+    "name": "King Angler",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "King Titan",
@@ -592,17 +627,22 @@
     "origin": "Genesis Part 2"
   },
   {
-    "name": "Maewing",
-    "origin": "Genesis Part 2"
-  },
-  {
     "name": "Maeguana",
     "origin": "Astraeos",
     "ascendedOnly": true
   },
   {
+    "name": "Maewing",
+    "origin": "Genesis Part 2"
+  },
+  {
     "name": "Magmasaur",
     "origin": "Genesis Part 1"
+  },
+  {
+    "name": "Malleocephalus",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Mammoth",
@@ -733,22 +773,27 @@
     "origin": "Genesis Part 2"
   },
   {
-    "name": "Oil Jug Bug",
-    "origin": "Scorched Earth"
-  },
-  {
     "name": "Oasisaur",
     "origin": "Scorched Earth",
     "ascendedOnly": true
   },
   {
-    "name": "Onyc",
-    "origin": "The Island"
+    "name": "Ocepechelon",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
+    "name": "Oil Jug Bug",
+    "origin": "Scorched Earth"
   },
   {
     "name": "Onchopristis",
     "origin": "Aquatica",
     "evolvedOnly": true
+  },
+  {
+    "name": "Onyc",
+    "origin": "The Island"
   },
   {
     "name": "Otter",
@@ -837,6 +882,11 @@
     "ascendedOnly": true
   },
   {
+    "name": "Qarmoutus",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Quetzal",
     "origin": "The Island"
   },
@@ -859,6 +909,16 @@
   {
     "name": "Rhyniognatha",
     "origin": "The Island"
+  },
+  {
+    "name": "Riftcrawler",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
+    "name": "Riftwalker",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Rock Drake",
@@ -912,6 +972,11 @@
     "ascendedOnly": true
   },
   {
+    "name": "Seahorse",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Seeker",
     "origin": "Aberration"
   },
@@ -960,8 +1025,18 @@
     "isWorldBoss": true
   },
   {
+    "name": "Stereolepis",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Summoner",
     "origin": "Genesis Part 2"
+  },
+  {
+    "name": "Takifugu",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Tapejara",
@@ -1002,8 +1077,18 @@
     "note": "This creature is planned to be added with the Lost Colony DLC. "
   },
   {
+    "name": "Thunnus",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Thylacoleo",
     "origin": "The Island"
+  },
+  {
+    "name": "Tiktaalik",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Titanoboa",
@@ -1020,11 +1105,6 @@
   {
     "name": "Titanosaur",
     "origin": "The Island"
-  },
-  {
-    "name": "Tiktaalik",
-    "origin": "Aquatica",
-    "evolvedOnly": true
   },
   {
     "name": "Triceratops",
@@ -1060,6 +1140,11 @@
     "origin": "The Island"
   },
   {
+    "name": "Veilwyn",
+    "origin": "Lost Colony",
+    "ascendedOnly": true
+  },
+  {
     "name": "Velonasaur",
     "origin": "Extinction"
   },
@@ -1068,12 +1153,27 @@
     "origin": "Genesis Part 2"
   },
   {
+    "name": "Vulcanite",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
+    "name": "Vulcanithys",
+    "origin": "Aquatica",
+    "evolvedOnly": true
+  },
+  {
     "name": "Vulture",
     "origin": "Scorched Earth"
   },
   {
     "name": "Water Jug Bug",
     "origin": "Scorched Earth"
+  },
+  {
+    "name": "Water Wyvern",
+    "origin": "Aquatica",
+    "evolvedOnly": true
   },
   {
     "name": "Woolly Rhino",
@@ -1087,11 +1187,6 @@
   {
     "name": "Yi Ling",
     "origin": "Aberration",
-    "ascendedOnly": true
-  },
-  {
-    "name": "Veilwyn",
-    "origin": "Lost Colony",
     "ascendedOnly": true
   },
   {
