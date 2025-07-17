@@ -773,6 +773,11 @@
     "origin": "Genesis Part 2"
   },
   {
+    "name": "Nunatak",
+    "origin": "Ragnarok",
+    "ascendedOnly": true
+  },
+  {
     "name": "Oasisaur",
     "origin": "Scorched Earth",
     "ascendedOnly": true
