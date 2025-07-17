@@ -99,8 +99,7 @@
   {
     "name": "Bison",
     "origin": "Ragnarok",
-    "ascendedOnly": true,
-    "note": "This creature is planned to be added with the Ragnarok Ascended DLC. "
+    "ascendedOnly": true
   },
   {
     "name": "Blood Crystal Wyvern",
